@@ -1,0 +1,18 @@
+Responsáveis: Daniela Rodrigues e Hanna Patrocinio
+
+Objetivo: Criar um jogo clicker usando htlm, css e javascript
+
+
+
+Temas Iniciais (Hanna): Money clicker, Alien clicker e Cat clicker 
+Temas Iniciais (Daniela): Frog clicker, Mercearia clicker e Fish clicker
+
+Funções: Objeto clicável, aprimoramentos, loja ...
+
+Tema escolhido: Fish clicker
+
+Objeto clicável: Vara de pescar
+
+Aprimoramentos: melhorar os aspectos da vara de pesca 
+
+Loja: itens que ajudam a pegar mais peixes (pontuação)
